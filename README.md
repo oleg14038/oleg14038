@@ -18,9 +18,6 @@ Skills:  Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg14038&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/oleg14038)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=oleg14038)  
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg14038) 
 
