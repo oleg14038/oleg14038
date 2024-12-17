@@ -16,7 +16,7 @@ Skills:  Python
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg14038&show_icons=true)  
+
 
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg14038) 
