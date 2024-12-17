@@ -1,4 +1,4 @@
-###Hi there 👋, my name is Oleg
+Hi there 👋, my name is Oleg
 About me: I'm Junior Python Developer. Прохожу обучение у Сенаторова, хочу в скором времени сменить работу !!!
 
 
