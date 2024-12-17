@@ -3,7 +3,7 @@ About me: I'm Junior Python Developer. Прохожу обучение у Сен
 
 
 Skills:  Python
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://vk.com/id549753942</h3>
 <p align="left">
 </p>
 
