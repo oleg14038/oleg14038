@@ -4,7 +4,7 @@ About me: I'm Junior Python Developer. Прохожу обучение у Сен
 
 Skills:  Python
 
-
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oleg14038)  
 
