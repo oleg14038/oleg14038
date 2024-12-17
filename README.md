@@ -22,3 +22,5 @@ Skills:  Python
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=oleg14038)  
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default) 
+
