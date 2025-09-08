@@ -3,7 +3,7 @@ About me: I'm Junior Python Developer. Прохожу обучение у Сен
 
 
 Skills:  Python
-<h3 align="left">Connect with me: https://vk.com/id549753942</h3>
+
 <p align="left">
 </p>
 
@@ -14,7 +14,7 @@ Skills:  Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oleg14038)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img /animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
 
